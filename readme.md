@@ -1,7 +1,3 @@
-Here's a sample README content for the **Bank Account Management System**. This document provides an overview of the system, its features, requirements, installation instructions, and other relevant details.
-
----
-
 # Bank Account Management System
 
 ## Overview
